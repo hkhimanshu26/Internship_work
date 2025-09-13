@@ -1,0 +1,2872 @@
+[
+{
+"device_id": "WIM-003",
+"lane": 2,
+"timestamp": "2025-07-23T00:00:00Z",
+"vehicle_id": "VEH372423",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 33003,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8371,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8243,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 8271,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8118,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 31.2,
+"overloaded": true,
+"confidence": 0.94
+},
+{
+"device_id": "WIM-005",
+"lane": 2,
+"timestamp": "2025-07-23T00:05:00Z",
+"vehicle_id": "VEH388613",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 32133,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7788,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7688,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8175,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8482,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 53.3,
+"overloaded": true,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T00:10:00Z",
+"vehicle_id": "VEH805528",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 15174,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7333,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7841,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 77.2,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T00:15:00Z",
+"vehicle_id": "VEH402234",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 14807,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8265,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6542,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 57.2,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T00:20:00Z",
+"vehicle_id": "VEH251330",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 16017,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7440,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8577,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 78.4,
+"overloaded": true,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T00:25:00Z",
+"vehicle_id": "VEH484761",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 16439,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7471,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8968,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 54.6,
+"overloaded": true,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-005",
+"lane": 1,
+"timestamp": "2025-07-23T00:30:00Z",
+"vehicle_id": "VEH908902",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 32927,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8781,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8389,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7501,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8256,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 77.2,
+"overloaded": true,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-005",
+"lane": 3,
+"timestamp": "2025-07-23T00:35:00Z",
+"vehicle_id": "VEH719618",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 29515,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7851,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7949,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6699,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 7016,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 56.4,
+"overloaded": false,
+"confidence": 0.94
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T00:40:00Z",
+"vehicle_id": "VEH887105",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 13903,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6246,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7657,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 66.0,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T00:45:00Z",
+"vehicle_id": "VEH304531",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 15680,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8542,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7138,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 77.2,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T00:50:00Z",
+"vehicle_id": "VEH326294",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 22408,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8357,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7469,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6582,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 60.7,
+"overloaded": false,
+"confidence": 0.96
+},
+{
+"device_id": "WIM-005",
+"lane": 4,
+"timestamp": "2025-07-23T00:55:00Z",
+"vehicle_id": "VEH263168",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 24370,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8576,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8298,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7496,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 57.3,
+"overloaded": true,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T01:00:00Z",
+"vehicle_id": "VEH771432",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 16899,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8736,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8163,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 46.9,
+"overloaded": true,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T01:05:00Z",
+"vehicle_id": "VEH737099",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 28297,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6989,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7873,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 7221,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 6214,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 70.8,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T01:10:00Z",
+"vehicle_id": "VEH843266",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 31171,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6059,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7939,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8925,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 8248,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 48.3,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T01:15:00Z",
+"vehicle_id": "VEH926851",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 22522,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7913,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7164,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7445,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 31.5,
+"overloaded": false,
+"confidence": 0.85
+},
+{
+"device_id": "WIM-001",
+"lane": 4,
+"timestamp": "2025-07-23T01:20:00Z",
+"vehicle_id": "VEH614691",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 15441,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7288,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8153,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 32.8,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-001",
+"lane": 2,
+"timestamp": "2025-07-23T01:25:00Z",
+"vehicle_id": "VEH941596",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 27223,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7335,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6178,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6530,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 7180,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 37.1,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T01:30:00Z",
+"vehicle_id": "VEH798584",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 13262,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6400,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6862,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 39.0,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T01:35:00Z",
+"vehicle_id": "VEH930217",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 23176,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6447,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8210,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8519,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 53.9,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-002",
+"lane": 3,
+"timestamp": "2025-07-23T01:40:00Z",
+"vehicle_id": "VEH280870",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 31047,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7199,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8674,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6221,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8953,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 43.2,
+"overloaded": false,
+"confidence": 0.85
+},
+{
+"device_id": "WIM-004",
+"lane": 3,
+"timestamp": "2025-07-23T01:45:00Z",
+"vehicle_id": "VEH587065",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 19223,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6702,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6269,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6252,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 68.4,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T01:50:00Z",
+"vehicle_id": "VEH200333",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 24564,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8199,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8169,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 8196,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 66.4,
+"overloaded": true,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-005",
+"lane": 1,
+"timestamp": "2025-07-23T01:55:00Z",
+"vehicle_id": "VEH685917",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 15868,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7912,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7956,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 76.7,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T02:00:00Z",
+"vehicle_id": "VEH424360",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 30676,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8449,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8108,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 7879,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 6240,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 77.3,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-005",
+"lane": 2,
+"timestamp": "2025-07-23T02:05:00Z",
+"vehicle_id": "VEH343994",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 24386,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8181,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8847,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 7358,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 73.6,
+"overloaded": true,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-001",
+"lane": 4,
+"timestamp": "2025-07-23T02:10:00Z",
+"vehicle_id": "VEH478260",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 29186,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7072,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7428,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6786,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 7900,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 47.4,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T02:15:00Z",
+"vehicle_id": "VEH350506",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 29368,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7430,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8076,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 7694,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 6168,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 39.5,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-001",
+"lane": 2,
+"timestamp": "2025-07-23T02:20:00Z",
+"vehicle_id": "VEH505338",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 13249,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6814,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6435,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 40.8,
+"overloaded": false,
+"confidence": 0.98
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T02:25:00Z",
+"vehicle_id": "VEH181660",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 28133,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8388,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7420,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6248,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 6077,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 47.7,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T02:30:00Z",
+"vehicle_id": "VEH289055",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 13837,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6191,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7646,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 78.9,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-001",
+"lane": 2,
+"timestamp": "2025-07-23T02:35:00Z",
+"vehicle_id": "VEH109460",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 14649,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7293,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7356,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 58.0,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T02:40:00Z",
+"vehicle_id": "VEH444784",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 21022,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6342,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6480,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 8200,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 69.6,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-004",
+"lane": 3,
+"timestamp": "2025-07-23T02:45:00Z",
+"vehicle_id": "VEH501432",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 14886,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7882,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7004,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 55.3,
+"overloaded": false,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T02:50:00Z",
+"vehicle_id": "VEH608453",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 14456,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6304,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8152,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 52.6,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T02:55:00Z",
+"vehicle_id": "VEH745096",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 29416,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8411,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7798,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6622,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 6585,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 38.6,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T03:00:00Z",
+"vehicle_id": "VEH714966",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 12203,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6167,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6036,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 53.0,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T03:05:00Z",
+"vehicle_id": "VEH130144",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 24569,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8987,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6980,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8602,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 55.0,
+"overloaded": true,
+"confidence": 0.96
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T03:10:00Z",
+"vehicle_id": "VEH840307",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 31770,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7493,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7750,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8553,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 7974,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 78.1,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-002",
+"lane": 3,
+"timestamp": "2025-07-23T03:15:00Z",
+"vehicle_id": "VEH273070",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 16358,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8379,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7979,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 46.8,
+"overloaded": true,
+"confidence": 0.99
+},
+{
+"device_id": "WIM-001",
+"lane": 2,
+"timestamp": "2025-07-23T03:20:00Z",
+"vehicle_id": "VEH986520",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 23819,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8037,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6854,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8928,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 57.3,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T03:25:00Z",
+"vehicle_id": "VEH470065",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 14940,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6562,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8378,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 77.5,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-002",
+"lane": 4,
+"timestamp": "2025-07-23T03:30:00Z",
+"vehicle_id": "VEH821452",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 15456,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7370,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8086,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 48.1,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-002",
+"lane": 4,
+"timestamp": "2025-07-23T03:35:00Z",
+"vehicle_id": "VEH317730",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 23483,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6698,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8067,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8718,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 64.5,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-002",
+"lane": 4,
+"timestamp": "2025-07-23T03:40:00Z",
+"vehicle_id": "VEH870705",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 22942,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7556,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8557,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6829,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 34.1,
+"overloaded": false,
+"confidence": 0.87
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T03:45:00Z",
+"vehicle_id": "VEH329954",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 29506,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7879,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6624,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8374,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 6629,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 48.1,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T03:50:00Z",
+"vehicle_id": "VEH228969",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 28967,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7306,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6173,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8687,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 6801,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 54.2,
+"overloaded": false,
+"confidence": 0.94
+},
+{
+"device_id": "WIM-003",
+"lane": 3,
+"timestamp": "2025-07-23T03:55:00Z",
+"vehicle_id": "VEH674671",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 31594,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6879,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8983,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7579,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8153,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 53.7,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T04:00:00Z",
+"vehicle_id": "VEH802617",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 30642,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6453,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8932,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7960,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 7297,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 53.0,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T04:05:00Z",
+"vehicle_id": "VEH754042",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 22956,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7568,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6690,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8698,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 80.0,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T04:10:00Z",
+"vehicle_id": "VEH473788",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 23594,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7513,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8731,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 7350,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 60.5,
+"overloaded": false,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T04:15:00Z",
+"vehicle_id": "VEH212772",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 16434,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8112,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8322,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 38.9,
+"overloaded": true,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-005",
+"lane": 4,
+"timestamp": "2025-07-23T04:20:00Z",
+"vehicle_id": "VEH516062",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 13003,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6104,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6899,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 34.2,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-002",
+"lane": 2,
+"timestamp": "2025-07-23T04:25:00Z",
+"vehicle_id": "VEH146883",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 15525,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8659,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6866,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 34.7,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T04:30:00Z",
+"vehicle_id": "VEH512996",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 24736,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8990,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7470,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8276,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 32.4,
+"overloaded": true,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-005",
+"lane": 4,
+"timestamp": "2025-07-23T04:35:00Z",
+"vehicle_id": "VEH475448",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 16960,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8990,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7970,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 66.8,
+"overloaded": true,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T04:40:00Z",
+"vehicle_id": "VEH914077",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 14261,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7500,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6761,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 52.6,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T04:45:00Z",
+"vehicle_id": "VEH865718",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 32621,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8843,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8012,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6935,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 8831,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 79.2,
+"overloaded": true,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T04:50:00Z",
+"vehicle_id": "VEH274388",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 21358,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8457,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6308,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6593,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 40.2,
+"overloaded": false,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T04:55:00Z",
+"vehicle_id": "VEH965535",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 29668,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7734,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8308,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6198,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 7428,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 67.7,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-002",
+"lane": 2,
+"timestamp": "2025-07-23T05:00:00Z",
+"vehicle_id": "VEH596478",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 13156,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6392,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6764,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 39.7,
+"overloaded": false,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T05:05:00Z",
+"vehicle_id": "VEH700605",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 27911,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6917,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6128,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7026,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 7840,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 35.9,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T05:10:00Z",
+"vehicle_id": "VEH816519",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 22203,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7252,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6584,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8367,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 37.1,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T05:15:00Z",
+"vehicle_id": "VEH249391",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 27841,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6871,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7605,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6617,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 6748,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 47.4,
+"overloaded": false,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-002",
+"lane": 3,
+"timestamp": "2025-07-23T05:20:00Z",
+"vehicle_id": "VEH471595",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 23310,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7706,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6808,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8796,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 78.2,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-001",
+"lane": 1,
+"timestamp": "2025-07-23T05:25:00Z",
+"vehicle_id": "VEH790515",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 20949,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6801,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7098,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 7050,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 44.5,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T05:30:00Z",
+"vehicle_id": "VEH924536",
+"vehicle_class": "Van",
+"axle_count": 2,
+"gross_weight_kg": 15514,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8542,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6972,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 53.2,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T05:35:00Z",
+"vehicle_id": "VEH790544",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 21148,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6368,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6409,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8371,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 72.1,
+"overloaded": false,
+"confidence": 0.87
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T05:40:00Z",
+"vehicle_id": "VEH614736",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 21436,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8542,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6495,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6399,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 57.7,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T05:45:00Z",
+"vehicle_id": "VEH240370",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 14999,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8141,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6858,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 67.8,
+"overloaded": false,
+"confidence": 0.98
+},
+{
+"device_id": "WIM-005",
+"lane": 1,
+"timestamp": "2025-07-23T05:50:00Z",
+"vehicle_id": "VEH559490",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 15725,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6928,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8797,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 58.8,
+"overloaded": false,
+"confidence": 0.9
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T05:55:00Z",
+"vehicle_id": "VEH408556",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 21742,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7594,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6991,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7157,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 39.0,
+"overloaded": false,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T06:00:00Z",
+"vehicle_id": "VEH162838",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 16948,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8741,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8207,
+"axle_distance_cm": 100
+}
+],
+"speed_kmph": 44.0,
+"overloaded": true,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T06:05:00Z",
+"vehicle_id": "VEH492722",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 23663,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6830,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7848,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8985,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 72.1,
+"overloaded": false,
+"confidence": 0.87
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T06:10:00Z",
+"vehicle_id": "VEH270647",
+"vehicle_class": "Truck",
+"axle_count": 3,
+"gross_weight_kg": 21240,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6704,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7833,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6703,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 73.5,
+"overloaded": false,
+"confidence": 0.91
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T06:15:00Z",
+"vehicle_id": "VEH392196",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 30419,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8057,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8183,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6384,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 7795,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 41.7,
+"overloaded": false,
+"confidence": 0.94
+},
+{
+"device_id": "WIM-005",
+"lane": 1,
+"timestamp": "2025-07-23T06:20:00Z",
+"vehicle_id": "VEH214705",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 15958,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7219,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8739,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 32.3,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T06:25:00Z",
+"vehicle_id": "VEH892909",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 30791,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8621,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7660,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8444,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 6066,
+"axle_distance_cm": 300
+}
+],
+"speed_kmph": 64.7,
+"overloaded": false,
+"confidence": 0.87
+},
+{
+"device_id": "WIM-004",
+"lane": 3,
+"timestamp": "2025-07-23T06:30:00Z",
+"vehicle_id": "VEH799347",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 13633,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6531,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7102,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 41.3,
+"overloaded": false,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-001",
+"lane": 3,
+"timestamp": "2025-07-23T06:35:00Z",
+"vehicle_id": "VEH101201",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 20710,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6477,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7384,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6849,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 79.2,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-005",
+"lane": 1,
+"timestamp": "2025-07-23T06:40:00Z",
+"vehicle_id": "VEH886825",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 29280,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6434,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8346,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 8498,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 6002,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 66.6,
+"overloaded": false,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-002",
+"lane": 3,
+"timestamp": "2025-07-23T06:45:00Z",
+"vehicle_id": "VEH966647",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 28885,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7789,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8355,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 6578,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 6163,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 65.3,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T06:50:00Z",
+"vehicle_id": "VEH931274",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 16036,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7434,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8602,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 50.0,
+"overloaded": true,
+"confidence": 0.94
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T06:55:00Z",
+"vehicle_id": "VEH550354",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 25649,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8537,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8483,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 8629,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 44.2,
+"overloaded": true,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T07:00:00Z",
+"vehicle_id": "VEH446681",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 29473,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7366,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6755,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 7590,
+"axle_distance_cm": 260
+},
+{
+"axle_number": 4,
+"weight_kg": 7762,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 67.3,
+"overloaded": false,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T07:05:00Z",
+"vehicle_id": "VEH636715",
+"vehicle_class": "Truck",
+"axle_count": 4,
+"gross_weight_kg": 27396,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7557,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6356,
+"axle_distance_cm": 120
+},
+{
+"axle_number": 3,
+"weight_kg": 7060,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 6423,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 76.8,
+"overloaded": false,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-002",
+"lane": 2,
+"timestamp": "2025-07-23T07:10:00Z",
+"vehicle_id": "VEH445020",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 22032,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7149,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7864,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7019,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 31.1,
+"overloaded": false,
+"confidence": 0.96
+},
+{
+"device_id": "WIM-003",
+"lane": 3,
+"timestamp": "2025-07-23T07:15:00Z",
+"vehicle_id": "VEH949204",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 17435,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8770,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8665,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 42.0,
+"overloaded": true,
+"confidence": 0.95
+},
+{
+"device_id": "WIM-003",
+"lane": 1,
+"timestamp": "2025-07-23T07:20:00Z",
+"vehicle_id": "VEH752509",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 13950,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7218,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6732,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 58.5,
+"overloaded": false,
+"confidence": 0.98
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T07:25:00Z",
+"vehicle_id": "VEH707270",
+"vehicle_class": "Van",
+"axle_count": 4,
+"gross_weight_kg": 30790,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8482,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7309,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7119,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 7880,
+"axle_distance_cm": 390
+}
+],
+"speed_kmph": 66.7,
+"overloaded": false,
+"confidence": 0.98
+},
+{
+"device_id": "WIM-004",
+"lane": 1,
+"timestamp": "2025-07-23T07:30:00Z",
+"vehicle_id": "VEH581002",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 24876,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8764,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7148,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 8964,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 41.1,
+"overloaded": true,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-005",
+"lane": 3,
+"timestamp": "2025-07-23T07:35:00Z",
+"vehicle_id": "VEH218311",
+"vehicle_class": "Trailer",
+"axle_count": 4,
+"gross_weight_kg": 27902,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 6399,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6463,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 7496,
+"axle_distance_cm": 240
+},
+{
+"axle_number": 4,
+"weight_kg": 7544,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 58.1,
+"overloaded": false,
+"confidence": 0.96
+},
+{
+"device_id": "WIM-003",
+"lane": 2,
+"timestamp": "2025-07-23T07:40:00Z",
+"vehicle_id": "VEH328711",
+"vehicle_class": "Trailer",
+"axle_count": 2,
+"gross_weight_kg": 17106,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8800,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8306,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 52.2,
+"overloaded": true,
+"confidence": 0.89
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T07:45:00Z",
+"vehicle_id": "VEH645554",
+"vehicle_class": "Truck",
+"axle_count": 2,
+"gross_weight_kg": 15959,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7999,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7960,
+"axle_distance_cm": 120
+}
+],
+"speed_kmph": 64.0,
+"overloaded": false,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-005",
+"lane": 2,
+"timestamp": "2025-07-23T07:50:00Z",
+"vehicle_id": "VEH830595",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 24523,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8830,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7739,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 7954,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 38.4,
+"overloaded": true,
+"confidence": 0.97
+},
+{
+"device_id": "WIM-003",
+"lane": 4,
+"timestamp": "2025-07-23T07:55:00Z",
+"vehicle_id": "VEH169770",
+"vehicle_class": "Bus",
+"axle_count": 2,
+"gross_weight_kg": 16747,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7905,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8842,
+"axle_distance_cm": 130
+}
+],
+"speed_kmph": 31.7,
+"overloaded": true,
+"confidence": 0.88
+},
+{
+"device_id": "WIM-004",
+"lane": 2,
+"timestamp": "2025-07-23T08:00:00Z",
+"vehicle_id": "VEH683945",
+"vehicle_class": "Bus",
+"axle_count": 4,
+"gross_weight_kg": 29466,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8014,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7852,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6044,
+"axle_distance_cm": 200
+},
+{
+"axle_number": 4,
+"weight_kg": 7556,
+"axle_distance_cm": 360
+}
+],
+"speed_kmph": 49.4,
+"overloaded": false,
+"confidence": 0.93
+},
+{
+"device_id": "WIM-004",
+"lane": 4,
+"timestamp": "2025-07-23T08:05:00Z",
+"vehicle_id": "VEH941722",
+"vehicle_class": "Van",
+"axle_count": 3,
+"gross_weight_kg": 22985,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 7917,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 6626,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 8442,
+"axle_distance_cm": 240
+}
+],
+"speed_kmph": 69.1,
+"overloaded": false,
+"confidence": 0.86
+},
+{
+"device_id": "WIM-001",
+"lane": 2,
+"timestamp": "2025-07-23T08:10:00Z",
+"vehicle_id": "VEH672653",
+"vehicle_class": "Bus",
+"axle_count": 3,
+"gross_weight_kg": 22982,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8219,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 7801,
+"axle_distance_cm": 100
+},
+{
+"axle_number": 3,
+"weight_kg": 6962,
+"axle_distance_cm": 260
+}
+],
+"speed_kmph": 65.1,
+"overloaded": false,
+"confidence": 0.92
+},
+{
+"device_id": "WIM-002",
+"lane": 1,
+"timestamp": "2025-07-23T08:15:00Z",
+"vehicle_id": "VEH686763",
+"vehicle_class": "Trailer",
+"axle_count": 3,
+"gross_weight_kg": 23291,
+"axles": [
+{
+"axle_number": 1,
+"weight_kg": 8631,
+"axle_distance_cm": 0
+},
+{
+"axle_number": 2,
+"weight_kg": 8030,
+"axle_distance_cm": 130
+},
+{
+"axle_number": 3,
+"weight_kg": 6630,
+"axle_distance_cm": 200
+}
+],
+"speed_kmph": 31.2,
+"overloaded": false,
+"confidence": 0.96
+}
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "device_id": "WIM-001",
+    "lane": 2,
+    "timestamp": "2025-07-25T05:32:43.807150Z",
+    "vehicle_id": "VEH123456",
+    "vehicle_class": "Truck",
+    "axle_count": 3,
+    "gross_weight_kg": 24100,
+    "axles": [
+      {
+        "axle_number": 1,
+        "weight_kg": 8000,
+        "axle_distance_cm": 0
+      },
+      {
+        "axle_number": 2,
+        "weight_kg": 7800,
+        "axle_distance_cm": 120
+      },
+      {
+        "axle_number": 3,
+        "weight_kg": 7300,
+        "axle_distance_cm": 260
+      }
+    ],
+    "speed_kmph": 52.3,
+    "overloaded": true,
+    "confidence": 0.96
+  },
+  {
+    "device_id": "WIM-002",
+    "lane": 1,
+    "timestamp": "2025-07-25T05:33:13.807150Z",
+    "vehicle_id": "VEH123457",
+    "vehicle_class": "Car",
+    "axle_count": 2,
+    "gross_weight_kg": 1200,
+    "axles": [
+      {
+        "axle_number": 1,
+        "weight_kg": 600,
+        "axle_distance_cm": 0
+      },
+      {
+        "axle_number": 2,
+        "weight_kg": 600,
+        "axle_distance_cm": 120
+      }
+    ],
+    "speed_kmph": 68.2,
+    "overloaded": false,
+    "confidence": 0.94
+  },
+  {
+    "device_id": "WIM-003",
+    "lane": 3,
+    "timestamp": "2025-07-25T05:33:43.807150Z",
+    "vehicle_id": "VEH123458",
+    "vehicle_class": "Bus",
+    "axle_count": 2,
+    "gross_weight_kg": 8500,
+    "axles": [
+      {
+        "axle_number": 1,
+        "weight_kg": 4300,
+        "axle_distance_cm": 0
+      },
+      {
+        "axle_number": 2,
+        "weight_kg": 4200,
+        "axle_distance_cm": 150
+      }
+    ],
+    "speed_kmph": 61.7,
+    "overloaded": false,
+    "confidence": 0.91
+  }
+]

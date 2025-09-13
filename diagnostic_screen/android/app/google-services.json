@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969340686007",
+    "project_id": "traffiqiq",
+    "storage_bucket": "traffiqiq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969340686007:android:1fa9332cd4d0d435994732",
+        "android_client_info": {
+          "package_name": "com.example.diagnostic_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8gj9OcVYOKfylTD11pnRGxJuWnoH5JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
